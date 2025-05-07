@@ -15,10 +15,11 @@ Before ReactJs.
 3. Es6 Features
  - Fetch Api
  - Async and Await     Async / Sync
- - Descturing
- - HigherOrder Functions = Map / ForEach /findIndex / Filter....
  - Import and Export
- - Try and Catch
- - Arrow Function.
  - Clean Code
+ - Arrow Function.
+ - Try and Catch
  - const and let 
+ - HigherOrder Functions = Map / ForEach /findIndex / Filter....
+ - Descturing
+ - Spread Operator

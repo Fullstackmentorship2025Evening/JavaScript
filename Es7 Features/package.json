@@ -1,0 +1,13 @@
+{
+  "name": "es7-features",
+  "version": "1.0.0",
+  "description": "Before ReactJs.\r 1. fundamentals\r    - Variables\r    - Datatypes\r    - Arrays\r    - Conditions\r    - Loops\r    - Functions\r    - Objects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
